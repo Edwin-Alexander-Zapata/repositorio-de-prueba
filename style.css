@@ -1,3 +1,8 @@
-#holamundo {
-    background-color: blue;
+body{
+    background: #093028; 
+    background: -webkit-linear-gradient(to right, #237A57, #093028);  
+    background: linear-gradient(to right, #237A57, #093028); 
+    text-align: center;
+    font-size: 40px;
+    color: cornsilk;
 }
